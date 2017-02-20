@@ -1,0 +1,27 @@
+{
+  "name": "chaimocha",
+  "version": "1.0.0",
+  "description": "Basic Chai Mocha Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somanath11/chaimocha.git"
+  },
+  "keywords": [
+    "chai",
+    "mocha"
+  ],
+  "author": "Som",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somanath11/chaimocha/issues"
+  },
+  "homepage": "https://github.com/somanath11/chaimocha#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
